@@ -26,12 +26,12 @@
 <table>
     <tr>
         <td align="center">
-            <img width="447" alt="Screenshot 2025-05-25 at 1 38 32 PM" src="https://github.com/user-attachments/assets/3191b2e0-4b50-498e-a54c-aca8a748f703" />
+            <img width="422" alt="Screenshot 2025-05-25 at 1 41 55 PM" src="https://github.com/user-attachments/assets/612fcac9-c285-421b-b575-50aa0deb614a" />
             <br>
             <em>Input Image</em>
         </td>
         <td align="center">
-            <img width="446" alt="image" src="https://github.com/user-attachments/assets/533a3fdc-e4ec-4400-897f-9c257e6b77af" />
+            <img width="420" alt="Screenshot 2025-05-25 at 1 42 06 PM" src="https://github.com/user-attachments/assets/dce87d9f-5413-4fc0-9d4a-fcfe2a929926" />
             <br>
             <em>Ground Truth Mask</em>
         </td>
