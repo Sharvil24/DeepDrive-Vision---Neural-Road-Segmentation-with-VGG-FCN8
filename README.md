@@ -124,12 +124,12 @@
 <table>
     <tr>
         <td align="center">
-            <img width="422" alt="image" src="https://github.com/user-attachments/assets/83442d43-67bc-4b0c-b6a1-eb261263011d" />
+            <img width="370" alt="image" src="https://github.com/user-attachments/assets/510a7515-073b-4202-a29e-2248b6844205" />
             <br>
             <em>Suburban Street</em>
         </td>
         <td align="center">
-            <img width="423" alt="image" src="https://github.com/user-attachments/assets/82bb63e3-1f1c-4fe7-a6a5-56d7d7cd6225" />
+            <img width="370" alt="image" src="https://github.com/user-attachments/assets/02701019-7e26-48ae-b881-2d5505d63db3" />
             <br>
             <em>Road Area Detection</em>
         </td>
