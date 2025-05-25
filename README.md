@@ -26,7 +26,7 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img1_input.jpg" alt="Sample Input Image" width="400">
+            ![image](https://github.com/user-attachments/assets/97150881-d5fe-4152-9536-9c7f7d385044)
             <br>
             <em>Input Image</em>
         </td>
