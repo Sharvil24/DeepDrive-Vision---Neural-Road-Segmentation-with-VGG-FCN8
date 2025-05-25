@@ -47,17 +47,17 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img2_input.jpg" alt="Test Image" width="300">
+            <img width="294" alt="Screenshot 2025-05-25 at 2 15 23 PM" src="https://github.com/user-attachments/assets/c1e32206-507f-4e4e-a9aa-137c80e95a29" />
             <br>
             <em>Original Image</em>
         </td>
         <td align="center">
-            <img src="img2_truth.jpg" alt="Ground Truth" width="300">
+            <img width="296" alt="Screenshot 2025-05-25 at 2 15 31 PM" src="https://github.com/user-attachments/assets/59f97061-6480-4ec5-8e25-ca3db02e1150" />
             <br>
             <em>Ground Truth</em>
         </td>
         <td align="center">
-            <img src="img2_predicted.jpg" alt="Predicted Mask" width="300">
+            <img width="297" alt="Screenshot 2025-05-25 at 2 15 39 PM" src="https://github.com/user-attachments/assets/69a7ac44-869c-49d5-a739-939ace8a4f3b" />
             <br>
             <em>Predicted Mask (Heatmap)</em>
         </td>
@@ -68,17 +68,17 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img3_input.jpg" alt="Test Image" width="300">
+            <img width="296" alt="Screenshot 2025-05-25 at 2 17 05 PM" src="https://github.com/user-attachments/assets/77ddc101-02e8-4518-bea8-c7c2608b718e" />
             <br>
             <em>Original Image</em>
         </td>
         <td align="center">
-            <img src="img3_truth.jpg" alt="Ground Truth" width="300">
+            <img width="294" alt="Screenshot 2025-05-25 at 2 17 12 PM" src="https://github.com/user-attachments/assets/8123dd23-2660-4e53-91fb-5f3525269182" />
             <br>
             <em>Ground Truth</em>
         </td>
         <td align="center">
-            <img src="img3_predicted.jpg" alt="Refined Prediction" width="300">
+            <img width="295" alt="Screenshot 2025-05-25 at 2 17 22 PM" src="https://github.com/user-attachments/assets/d3e28160-a463-4b10-a503-c4575478da4c" />
             <br>
             <em>Refined Prediction</em>
         </td>
