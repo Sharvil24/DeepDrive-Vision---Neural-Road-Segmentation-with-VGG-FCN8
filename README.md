@@ -92,12 +92,12 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img4_input.jpg" alt="Urban Scene 1" width="400">
+            <img width="371" alt="image" src="https://github.com/user-attachments/assets/07aba226-d9cd-4247-a2a0-af761a28fcc9" />
             <br>
             <em>Original Street View</em>
         </td>
         <td align="center">
-            <img src="img4_predicted.jpg" alt="Segmented Road 1" width="400">
+            <img width="373" alt="image" src="https://github.com/user-attachments/assets/acbbab7f-b931-42b7-9f03-86e092416fc6" />
             <br>
             <em>Segmented Road (Highlighted in Red)</em>
         </td>
@@ -108,12 +108,12 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img5_input.jpg" alt="Highway Scene" width="400">
+            <img width="371" alt="image" src="https://github.com/user-attachments/assets/951ea054-15da-4939-90e0-e83f2f8e813b" />
             <br>
             <em>Highway Input</em>
         </td>
         <td align="center">
-            <img src="img5_predicted.jpg" alt="Highway Segmentation" width="400">
+            <img width="372" alt="image" src="https://github.com/user-attachments/assets/9257e134-d950-4d8f-b965-f74e67fd28ed" />
             <br>
             <em>Highway Road Segmentation</em>
         </td>
@@ -124,12 +124,12 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img6_input.jpg" alt="Suburban Scene" width="400">
+            <img width="422" alt="image" src="https://github.com/user-attachments/assets/83442d43-67bc-4b0c-b6a1-eb261263011d" />
             <br>
             <em>Suburban Street</em>
         </td>
         <td align="center">
-            <img src="img6_predicted.jpg" alt="Suburban Segmentation" width="400">
+            <img width="423" alt="image" src="https://github.com/user-attachments/assets/82bb63e3-1f1c-4fe7-a6a5-56d7d7cd6225" />
             <br>
             <em>Road Area Detection</em>
         </td>
@@ -140,12 +140,12 @@
 <table>
     <tr>
         <td align="center">
-            <img src="img7_input.jpg" alt="Low Light Scene" width="400">
+            <img width="372" alt="image" src="https://github.com/user-attachments/assets/350b33b6-f465-4034-8cc9-e8f0fe9c861d" />
             <br>
             <em>Low Light/Shadow Conditions</em>
         </td>
         <td align="center">
-            <img src="img7_predicted.jpg" alt="Low Light Segmentation" width="400">
+            <img width="370" alt="image" src="https://github.com/user-attachments/assets/b03f09c8-ef50-440d-96ed-50499e0ba769" />
             <br>
             <em>Robust Segmentation Result</em>
         </td>
