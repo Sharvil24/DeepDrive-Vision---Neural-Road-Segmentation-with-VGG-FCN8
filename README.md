@@ -27,12 +27,11 @@
     <tr>
         <td align="center">
             <img width="447" alt="Screenshot 2025-05-25 at 1 38 32 PM" src="https://github.com/user-attachments/assets/3191b2e0-4b50-498e-a54c-aca8a748f703" />
-
             <br>
             <em>Input Image</em>
         </td>
         <td align="center">
-            <img src="img1_mask.jpg" alt="Sample Ground Truth Mask" width="400">
+            <img width="446" alt="image" src="https://github.com/user-attachments/assets/533a3fdc-e4ec-4400-897f-9c257e6b77af" />
             <br>
             <em>Ground Truth Mask</em>
         </td>
