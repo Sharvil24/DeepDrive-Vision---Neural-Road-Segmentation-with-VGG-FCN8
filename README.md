@@ -26,7 +26,8 @@
 <table>
     <tr>
         <td align="center">
-            ![image](https://github.com/user-attachments/assets/97150881-d5fe-4152-9536-9c7f7d385044)
+            <img width="447" alt="Screenshot 2025-05-25 at 1 38 32 PM" src="https://github.com/user-attachments/assets/3191b2e0-4b50-498e-a54c-aca8a748f703" />
+
             <br>
             <em>Input Image</em>
         </td>
